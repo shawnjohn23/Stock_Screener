@@ -1,4 +1,5 @@
 # Stock_Screener
+
 in this repository I had GitHub code a stock screener and added features that would make the screener look for strong buys at a good price
 Here below I coppied the most recent work journal. 
 Stock Screener Project Journal  
